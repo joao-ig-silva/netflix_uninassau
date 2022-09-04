@@ -1,0 +1,68 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    text-align: center;
+    background-image: url("https://image.tmdb.org/t/p/w500/suopoADq0k8YZr4dQXcU6pToj6s.jpg");
+    background-color: #000000;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  
+  body > img {
+    margin: 0 10px;
+  }
+  
+  img {
+    max-height: 250px;
+  }
+  .Filme1 {
+    color: white;
+    margin-right: 400px;
+    font-size: 20px;
+    margin-top: 0;
+  }
+  .Filme2 {
+    color: white;
+    font-size: 20px;
+    margin-right: 20px;
+  }
+  .Filme3 {
+    color: white;
+    margin-left: 400px;
+    font-size: 20px;
+  }
+ .harry-logo{
+    margin-right: 400px;
+    font-size: 20px;
+    margin-top: 0;
+ }
+ .senhor_dos_aneis-logo{
+    margin-left: 400px;
+    font-size: 20px;
+ }
